@@ -1,0 +1,77 @@
+﻿Timestamp	Filename	Error	Message
+2021-12-21 10:05:29.276 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-21 10:05:29.283 -0700	ic.migrate	0	script steps imported : 1
+2021-12-21 10:05:29.283 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-21 11:13:46.929 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-21 11:13:46.931 -0700	ic.migrate	0	script steps imported : 1
+2021-12-21 11:13:46.931 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-21 11:19:26.596 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-21 11:19:26.598 -0700	ic.migrate	0	script steps imported : 1
+2021-12-21 11:19:26.598 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-21 11:19:51.127 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-21 11:19:51.130 -0700	ic.migrate	0	script steps imported : 2
+2021-12-21 11:19:51.130 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-21 11:26:42.799 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-21 11:26:42.800 -0700	ic.migrate	0	script steps imported : 1
+2021-12-21 11:26:42.800 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-21 11:26:49.891 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-21 11:26:49.892 -0700	ic.migrate	0	script steps imported : 1
+2021-12-21 11:26:49.892 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-21 11:37:23.960 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-21 11:37:23.963 -0700	ic.migrate	0	script steps imported : 1
+2021-12-21 11:37:23.963 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-21 11:37:44.486 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-21 11:37:44.489 -0700	ic.migrate	0	script steps imported : 1
+2021-12-21 11:37:44.490 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-21 11:37:46.662 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-21 11:37:46.664 -0700	ic.migrate	0	script steps imported : 1
+2021-12-21 11:37:46.665 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-21 11:37:47.507 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-21 11:37:47.510 -0700	ic.migrate	0	script steps imported : 1
+2021-12-21 11:37:47.510 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-21 11:44:15.074 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-21 11:44:15.078 -0700	ic.migrate	3703	Unknown Error: <unknown>.
+2021-12-21 11:44:15.078 -0700	ic.migrate	0	script steps imported : 4
+2021-12-21 11:44:15.078 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-21 11:45:48.682 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-21 11:45:48.684 -0700	ic.migrate	0	script steps imported : 1
+2021-12-21 11:45:48.685 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-21 12:08:37.045 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-21 12:08:37.055 -0700	ic.migrate	0	script steps imported : 5
+2021-12-21 12:08:37.055 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-21 12:33:37.780 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-21 12:33:37.782 -0700	ic.migrate	0	script steps imported : 1
+2021-12-21 12:33:37.782 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-22 09:46:55.356 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-22 09:46:55.358 -0700	migrate	0	script steps imported : 5
+2021-12-22 09:46:55.358 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-22 09:47:06.939 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-22 09:47:06.941 -0700	migrate	0	script steps imported : 1
+2021-12-22 09:47:06.942 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-22 09:48:07.453 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-22 09:48:07.455 -0700	migrate	0	script steps imported : 8
+2021-12-22 09:48:07.456 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-22 09:48:29.076 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-22 09:48:29.077 -0700	migrate	0	script steps imported : 2
+2021-12-22 09:48:29.077 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-22 09:53:45.117 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-22 09:53:45.119 -0700	migrate	0	script steps imported : 1
+2021-12-22 09:53:45.120 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-22 09:54:59.800 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-22 09:54:59.806 -0700	migrate	0	script steps imported : 15
+2021-12-22 09:54:59.806 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-22 09:55:27.268 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-22 09:55:27.271 -0700	migrate	0	script steps imported : 1
+2021-12-22 09:55:27.271 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-22 10:08:03.851 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-22 10:08:03.853 -0700	migrate	0	script steps imported : 8
+2021-12-22 10:08:03.853 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-22 10:08:24.234 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-22 10:08:24.237 -0700	migrate	0	script steps imported : 3
+2021-12-22 10:08:24.237 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-22 10:20:53.941 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-22 10:20:53.947 -0700	migrate	0	script steps imported : 26
+2021-12-22 10:20:53.947 -0700	FMDataMigration.fmp12	0	Import completed
+2021-12-22 10:23:36.100 -0700	FMDataMigration.fmp12	0	Import of script steps from clipboard started
+2021-12-22 10:23:36.103 -0700	migrate	0	script steps imported : 1
+2021-12-22 10:23:36.103 -0700	FMDataMigration.fmp12	0	Import completed

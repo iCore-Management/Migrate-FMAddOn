@@ -1,2 +1,7 @@
-# Migration-AddOn
- Utilizes the Data Migration Tool to move FileMaker files from Dev to Operations.
+# FMDataMigration
+This application automates the FM Data Migration Tool for a repository devops process.
+
+# Getting Started
+This application uses AppleScript and is not yet windows compatible.
+
+![image](/docs/resources/Interface.png)
