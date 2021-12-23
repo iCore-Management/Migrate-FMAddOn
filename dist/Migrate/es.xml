@@ -1,0 +1,847 @@
+﻿
+<DynamicTemplateString>
+	<StringID>com.fmi.basedirectory.7826195445DCD6FE3F62D670FB14BEF5</StringID>
+	<SourceText>FMDataMigration/</SourceText>
+	<TargetText>FMDataMigration/</TargetText>
+	<Comment>com.fmi.basedirectory.FMDataMigration/</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.91723F7FCE9CC3220CD23C831D60F8D0</StringID>
+	<SourceText>ic.Migrate</SourceText>
+	<TargetText>ic.Migrate</TargetText>
+	<Comment>com.fmi.basetable.ic.Migrate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.ic.Migrate::0FCF66F25B7F6956F416DAD721A6D37E</StringID>
+	<SourceText>?migration.account</SourceText>
+	<TargetText>?migration.account</TargetText>
+	<Comment>com.fmi.basetable.field.ic.Migrate::?migration.account</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.ic.Migrate::472850B2B838DE2D63D65372AD546A4D</StringID>
+	<SourceText>target.folder</SourceText>
+	<TargetText>target.folder</TargetText>
+	<Comment>com.fmi.basetable.field.ic.Migrate::target.folder</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.ic.Migrate::7BE09D02C06EFAF256407F8CDB2E324B</StringID>
+	<SourceText>clone</SourceText>
+	<TargetText>clone</TargetText>
+	<Comment>com.fmi.basetable.field.ic.Migrate::clone</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.ic.Migrate::91F127C4B704FC5AC212BA970EB65F39</StringID>
+	<SourceText>source</SourceText>
+	<TargetText>source</TargetText>
+	<Comment>com.fmi.basetable.field.ic.Migrate::source</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.ic.Migrate::96EF77A18A8B1C6CABA62972049F8653</StringID>
+	<SourceText>install.FMDataMigration</SourceText>
+	<TargetText>install.FMDataMigration</TargetText>
+	<Comment>com.fmi.basetable.field.ic.Migrate::install.FMDataMigration</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.ic.Migrate::A5C93A7A964D2B71626A5618C0D80D36</StringID>
+	<SourceText>FMDataMigration</SourceText>
+	<TargetText>FMDataMigration</TargetText>
+	<Comment>com.fmi.basetable.field.ic.Migrate::FMDataMigration</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.ic.Migrate::FFB5115282332A329739F7F5E0AD025E</StringID>
+	<SourceText>options</SourceText>
+	<TargetText>options</TargetText>
+	<Comment>com.fmi.basetable.field.ic.Migrate::options</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.007B34B0A9D448FDD493A817D8EE3983</StringID>
+	<SourceText>fileName</SourceText>
+	<TargetText>fileName</TargetText>
+	<Comment>com.fmi.calculation.text.fileName</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.009D4C9CC8095602833D7A43B8CEF77A</StringID>
+	<SourceText>&apos; -clone_path &apos;</SourceText>
+	<TargetText>&apos; -clone_path &apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; -clone_path &apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.020D8AC62B74BA959ED27F3D0120D298</StringID>
+	<SourceText>&apos; </SourceText>
+	<TargetText>&apos; </TargetText>
+	<Comment>com.fmi.calculation.text.&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.08506605E03FEF0A1E40FF2386D5DC97</StringID>
+	<SourceText>Source File Set to:¶</SourceText>
+	<TargetText>Source File Set to:¶</TargetText>
+	<Comment>com.fmi.calculation.text.Source File Set to:¶</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1188934A0A02A3341F44900978954A3E</StringID>
+	<SourceText>External Size</SourceText>
+	<TargetText>External Size</TargetText>
+	<Comment>com.fmi.calculation.text.External Size</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.14B9AE020CC4C610720411FEE6D75E29</StringID>
+	<SourceText>Install</SourceText>
+	<TargetText>Install</TargetText>
+	<Comment>com.fmi.calculation.text.Install</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.19709CBA3D0E18E5B44C56F5E9707DF3</StringID>
+	<SourceText>Select the target folder for the migrated file.</SourceText>
+	<TargetText>Select the target folder for the migrated file.</TargetText>
+	<Comment>com.fmi.calculation.text.Select the target folder for the migrated file.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1B759226EB6991D1214E639EA673D087</StringID>
+	<SourceText>?</SourceText>
+	<TargetText>?</TargetText>
+	<Comment>com.fmi.calculation.text.?</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.230281C03D93694221DFB8C9B6B70B64</StringID>
+	<SourceText>Select the distribution folder.</SourceText>
+	<TargetText>Select the distribution folder.</TargetText>
+	<Comment>com.fmi.calculation.text.Select the distribution folder.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.241E3859A564518E45A954AA28B33D5A</StringID>
+	<SourceText>Clone File Set to:¶</SourceText>
+	<TargetText>Clone File Set to:¶</TargetText>
+	<Comment>com.fmi.calculation.text.Clone File Set to:¶</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2610833815EB93D906397822ABEE3AC5</StringID>
+	<SourceText>Data Migration</SourceText>
+	<TargetText>Data Migration</TargetText>
+	<Comment>com.fmi.calculation.text.Data Migration</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2B6D4BFBDC7823138AFEDBE73E2726CB</StringID>
+	<SourceText>&apos; -target_path &apos;</SourceText>
+	<TargetText>&apos; -target_path &apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; -target_path &apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2D6017955E4154712EC4E6157154C848</StringID>
+	<SourceText>Select the distrubtion folder</SourceText>
+	<TargetText>Select the distrubtion folder</TargetText>
+	<Comment>com.fmi.calculation.text.Select the distrubtion folder</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2FD97E3527CE1EF47C179710C9394D2B</StringID>
+	<SourceText>\&quot;</SourceText>
+	<TargetText>\&quot;</TargetText>
+	<Comment>com.fmi.calculation.text.\&quot;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.32EC55D26C4851FB824E8E41E8D80E90</StringID>
+	<SourceText> Clone.fmp12</SourceText>
+	<TargetText> Clone.fmp12</TargetText>
+	<Comment>com.fmi.calculation.text. Clone.fmp12</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.33EFA59096C8774AFD71DD6C651AB58D</StringID>
+	<SourceText>Insert Clone File</SourceText>
+	<TargetText>Insert Clone File</TargetText>
+	<Comment>com.fmi.calculation.text.Insert Clone File</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.3DAA1BE4785EAAEC5E02CB9F4D80AE53</StringID>
+	<SourceText>Select Target Folder</SourceText>
+	<TargetText>Select Target Folder</TargetText>
+	<Comment>com.fmi.calculation.text.Select Target Folder</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.428AC1C9A4E6B2482AF115DD883AC756</StringID>
+	<SourceText>Unable to download the FMDataMigration Tool from the web.  Install it manually, and then select the installation during the migration process.</SourceText>
+	<TargetText>Unable to download the FMDataMigration Tool from the web.  Install it manually, and then select the installation during the migration process.</TargetText>
+	<Comment>com.fmi.calculation.text.Unable to download the FMDataMigration Tool from the web.  Install it manually, and then select the installation during the migration process.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.4FB50E4FE4A798658F74DFDAA265BEDD</StringID>
+	<SourceText>ERROR</SourceText>
+	<TargetText>ERROR</TargetText>
+	<Comment>com.fmi.calculation.text.ERROR</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.58173B78B1661C0D750CAD510FA222FA</StringID>
+	<SourceText>Password</SourceText>
+	<TargetText>Password</TargetText>
+	<Comment>com.fmi.calculation.text.Password</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5C5E1FEEB65D049B290CCFB398534C1F</StringID>
+	<SourceText>Pro</SourceText>
+	<TargetText>Pro</TargetText>
+	<Comment>com.fmi.calculation.text.Pro</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.6F447DCD5360A85B8D2770FA3E147867</StringID>
+	<SourceText>tell application \&quot;Terminal\&quot;</SourceText>
+	<TargetText>tell application \&quot;Terminal\&quot;</TargetText>
+	<Comment>com.fmi.calculation.text.tell application \&quot;Terminal\&quot;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.75356C505B3AD5F9AEE19AC84FA87AC8</StringID>
+	<SourceText>Select Production File</SourceText>
+	<TargetText>Select Production File</TargetText>
+	<Comment>com.fmi.calculation.text.Select Production File</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.7BCC7EEC27045FB4CC9344AD8C141F62</StringID>
+	<SourceText>Insert Source File</SourceText>
+	<TargetText>Insert Source File</TargetText>
+	<Comment>com.fmi.calculation.text.Insert Source File</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.7E4D27341DE4B0C5D3FF260462E9C4CB</StringID>
+	<SourceText>https://support.claris.com/s/article/New-FileMaker-data-migration-tool</SourceText>
+	<TargetText>https://support.claris.com/s/article/New-FileMaker-data-migration-tool</TargetText>
+	<Comment>com.fmi.calculation.text.https://support.claris.com/s/article/New-FileMaker-data-migration-tool</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.8084F60D00DAC3DA200B3759A513B34D</StringID>
+	<SourceText>https://github.com/iCore-Management/Encoder-FMAddOn</SourceText>
+	<TargetText>https://github.com/iCore-Management/Encoder-FMAddOn</TargetText>
+	<Comment>com.fmi.calculation.text.https://github.com/iCore-Management/Encoder-FMAddOn</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.85E7FAC9CF6B30F7FA671059EA608CF5</StringID>
+	<SourceText>All Files</SourceText>
+	<TargetText>All Files</TargetText>
+	<Comment>com.fmi.calculation.text.All Files</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.87BF18990BAC05BC994352E95DDA9704</StringID>
+	<SourceText>https://downloads.claris.com/DEVREL/sdk/fm_data_migration_19.4.1.36_mac.zip</SourceText>
+	<TargetText>https://downloads.claris.com/DEVREL/sdk/fm_data_migration_19.4.1.36_mac.zip</TargetText>
+	<Comment>com.fmi.calculation.text.https://downloads.claris.com/DEVREL/sdk/fm_data_migration_19.4.1.36_mac.zip</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.8E792621C75980180D67F8EF8D2C0BAF</StringID>
+	<SourceText>FMDataMigration.zip</SourceText>
+	<TargetText>FMDataMigration.zip</TargetText>
+	<Comment>com.fmi.calculation.text.FMDataMigration.zip</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.93173686B924EB4E1A7D63A9C3414CBC</StringID>
+	<SourceText> MAC ONLY </SourceText>
+	<TargetText> MAC ONLY </TargetText>
+	<Comment>com.fmi.calculation.text. MAC ONLY</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.939E506415F0B2B0B37C666F7D142D6B</StringID>
+	<SourceText>iCore Migrate</SourceText>
+	<TargetText>iCore Migrate</TargetText>
+	<Comment>com.fmi.calculation.text.iCore Migrate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.994BD10B048CE3EEA70DF0448145D466</StringID>
+	<SourceText>FMDataMigration/FMDataMigration</SourceText>
+	<TargetText>FMDataMigration/FMDataMigration</TargetText>
+	<Comment>com.fmi.calculation.text.FMDataMigration/FMDataMigration</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9C6B7633729A7F154B92FB5841E188C9</StringID>
+	<SourceText>Target Folder Set to:¶</SourceText>
+	<TargetText>Target Folder Set to:¶</TargetText>
+	<Comment>com.fmi.calculation.text.Target Folder Set to:¶</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9C6BAC5DD65E06C66F59C3B0A69CDF49</StringID>
+	<SourceText> Migrated.fmp12</SourceText>
+	<TargetText> Migrated.fmp12</TargetText>
+	<Comment>com.fmi.calculation.text. Migrated.fmp12</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9D08FACFEC420DD23C5DAF023C19FD0A</StringID>
+	<SourceText>Migrate Data</SourceText>
+	<TargetText>Migrate Data</TargetText>
+	<Comment>com.fmi.calculation.text.Migrate Data</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.9F9AEED9E8A06FA9A0227F2C5A5EB4AD</StringID>
+	<SourceText> FILEMAKER PRO ONLY </SourceText>
+	<TargetText> FILEMAKER PRO ONLY </TargetText>
+	<Comment>com.fmi.calculation.text. FILEMAKER PRO ONLY</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A2CB42FF59AC9336B164C65219C16DE8</StringID>
+	<SourceText>Source File</SourceText>
+	<TargetText>Source File</TargetText>
+	<Comment>com.fmi.calculation.text.Source File</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A39DE0507BC749BEE488B34E21ADD19A</StringID>
+	<SourceText>FMDataMigration Tool</SourceText>
+	<TargetText>FMDataMigration Tool</TargetText>
+	<Comment>com.fmi.calculation.text.FMDataMigration Tool</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A3C80E26A48812C7173545800756CD65</StringID>
+	<SourceText>Choose Source for Data Migration</SourceText>
+	<TargetText>Choose Source for Data Migration</TargetText>
+	<Comment>com.fmi.calculation.text.Choose Source for Data Migration</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A67C2D57C3F1C694ABA0F88500CE7A76</StringID>
+	<SourceText>do script \&quot;</SourceText>
+	<TargetText>do script \&quot;</TargetText>
+	<Comment>com.fmi.calculation.text.do script \&quot;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A806ED8A654A59A6BB574FA3BE56BE5F</StringID>
+	<SourceText>WINDOWS</SourceText>
+	<TargetText>WINDOWS</TargetText>
+	<Comment>com.fmi.calculation.text.WINDOWS</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AC7888B48C3FAB1C22FD29FD636437F1</StringID>
+	<SourceText>MAC</SourceText>
+	<TargetText>MAC</TargetText>
+	<Comment>com.fmi.calculation.text.MAC</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B5CFA679C28721856A5DFCCD2648A8E1</StringID>
+	<SourceText>https://icoremanagement.com/products/encoder</SourceText>
+	<TargetText>https://icoremanagement.com/products/encoder</TargetText>
+	<Comment>com.fmi.calculation.text.https://icoremanagement.com/products/encoder</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.BD207BEE995E01B61F7CE2B7F22394B1</StringID>
+	<SourceText> LOCAL ONLY </SourceText>
+	<TargetText> LOCAL ONLY </TargetText>
+	<Comment>com.fmi.calculation.text. LOCAL ONLY</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.BE3E6CB8A418D3680E742AA84175D7A1</StringID>
+	<SourceText>Enter an account and password of a local user with access to migrate data.</SourceText>
+	<TargetText>Enter an account and password of a local user with access to migrate data.</TargetText>
+	<Comment>com.fmi.calculation.text.Enter an account and password of a local user with access to migrate data.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C76E0814E56414747DEB0059DE6FD390</StringID>
+	<SourceText>Create New Clone of this File</SourceText>
+	<TargetText>Create New Clone of this File</TargetText>
+	<Comment>com.fmi.calculation.text.Create New Clone of this File</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C7FC1AC1F456EF08F68D500B571D7E34</StringID>
+	<SourceText>Select the file with production data to be migrated.</SourceText>
+	<TargetText>Select the file with production data to be migrated.</TargetText>
+	<Comment>com.fmi.calculation.text.Select the file with production data to be migrated.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D4F0487C1B249977538586982381BEDA</StringID>
+	<SourceText>Clone File</SourceText>
+	<TargetText>Clone File</TargetText>
+	<Comment>com.fmi.calculation.text.Clone File</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D7EC26F12231E422F49BAA30FCA5AF57</StringID>
+	<SourceText>Choose Target for Data Migration</SourceText>
+	<TargetText>Choose Target for Data Migration</TargetText>
+	<Comment>com.fmi.calculation.text.Choose Target for Data Migration</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DB55169D5CFECBDCC91C05CC1DE72CF4</StringID>
+	<SourceText>.fmp12</SourceText>
+	<TargetText>.fmp12</TargetText>
+	<Comment>com.fmi.calculation.text..fmp12</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DD1B9A42CD9611FBB37AB9584A5560CA</StringID>
+	<SourceText>[Full Access]</SourceText>
+	<TargetText>[Full Access]</TargetText>
+	<Comment>com.fmi.calculation.text.[Full Access]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DE269F664383008B15D9CE70CC0C53D8</StringID>
+	<SourceText>Insert Production File</SourceText>
+	<TargetText>Insert Production File</TargetText>
+	<Comment>com.fmi.calculation.text.Insert Production File</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E3D43BB3B4F454D8698A121A9CC7B83E</StringID>
+	<SourceText> -</SourceText>
+	<TargetText> -</TargetText>
+	<Comment>com.fmi.calculation.text. -</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E4E1C5E58D9D9F4746334EA029897306</StringID>
+	<SourceText>activate</SourceText>
+	<TargetText>activate</TargetText>
+	<Comment>com.fmi.calculation.text.activate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EECE2E542B0CDCE586A27B7931BA8BF0</StringID>
+	<SourceText>¶</SourceText>
+	<TargetText>¶</TargetText>
+	<Comment>com.fmi.calculation.text.¶</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EF19CCC2BD07F3CC077964CD8BC765A2</StringID>
+	<SourceText><TAB/><TAB/>&quot;do script \&quot;cd &quot; &amp; Replace ( $_folder ; 0 ; Position ( $_folder ; &quot;/&quot; ; 0 ; 2 )-1 ; &quot;&quot; ) &amp; &quot;\&quot;&quot;;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>&quot;do script \&quot;cd &quot; &amp; Replace ( $_folder ; 0 ; Position ( $_folder ; &quot;/&quot; ; 0 ; 2 )-1 ; &quot;&quot; ) &amp; &quot;\&quot;&quot;;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_&quot;do script \&quot;cd &quot; &amp; Replace ( $_folder ; 0 ; Position ( $_folder ; &quot;/&quot; ; 0 ; 2 )-1 ; &quot;&quot; ) &amp; &quot;\&quot;&quot;;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EF3DD62196490D40E4BD93EC4B2544AF</StringID>
+	<SourceText>end tell</SourceText>
+	<TargetText>end tell</TargetText>
+	<Comment>com.fmi.calculation.text.end tell</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F4EED65B7D0DF5A2D3B6B07F8C973297</StringID>
+	<SourceText>Account</SourceText>
+	<TargetText>Account</TargetText>
+	<Comment>com.fmi.calculation.text.Account</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F53C086195A1E009782B3A9AB75AAEC8</StringID>
+	<SourceText>External Files</SourceText>
+	<TargetText>External Files</TargetText>
+	<Comment>com.fmi.calculation.text.External Files</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F6C1DC0A7BAF1C689E0554D72854F419</StringID>
+	<SourceText>The FMDataMigration Tool is required.  Select its location, or install it from the web.</SourceText>
+	<TargetText>The FMDataMigration Tool is required.  Select its location, or install it from the web.</TargetText>
+	<Comment>com.fmi.calculation.text.The FMDataMigration Tool is required.  Select its location, or install it from the web.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F98095932A87C18748F4B1BFAB3A7D2F</StringID>
+	<SourceText> FULL ACCESS REQUIRED </SourceText>
+	<TargetText> FULL ACCESS REQUIRED </TargetText>
+	<Comment>com.fmi.calculation.text. FULL ACCESS REQUIRED</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FA9DBFD43FB5985D62E7787708001C9D</StringID>
+	<SourceText>FileMaker Files</SourceText>
+	<TargetText>FileMaker Files</TargetText>
+	<Comment>com.fmi.calculation.text.FileMaker Files</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FC1EB4359306B14C02BB2C972161F116</StringID>
+	<SourceText>Install Data Migration Tool</SourceText>
+	<TargetText>Install Data Migration Tool</TargetText>
+	<Comment>com.fmi.calculation.text.Install Data Migration Tool</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FC680031D4F468D6DEE286EB8FB5F156</StringID>
+	<SourceText>Option Details</SourceText>
+	<TargetText>Option Details</TargetText>
+	<Comment>com.fmi.calculation.text.Option Details</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FD5A4C7E961BDBDA16BFC5817738051B</StringID>
+	<SourceText> -src_path &apos;</SourceText>
+	<TargetText> -src_path &apos;</TargetText>
+	<Comment>com.fmi.calculation.text. -src_path &apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.95F05660AB4C68E26E9590DBAAB88B4B</StringID>
+	<SourceText>Migrate</SourceText>
+	<TargetText>Migrate</TargetText>
+	<Comment>com.fmi.layout.Migrate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.folder.939E506415F0B2B0B37C666F7D142D6B</StringID>
+	<SourceText>iCore Migrate</SourceText>
+	<TargetText>iCore Migrate</TargetText>
+	<Comment>com.fmi.layout.folder.iCore Migrate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.FD6BAEA62B3A5399601BD9DF242F098A</StringID>
+	<SourceText>Migration.[&lt;^FMXML_AddonInstanceUUID&gt;]</SourceText>
+	<TargetText>Migration.[&lt;^FMXML_AddonInstanceUUID&gt;]</TargetText>
+	<Comment>com.fmi.layoutobject.Migration.[&lt;^FMXML_AddonInstanceUUID&gt;]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.2F14CEDD0C7C53174AD5FB1C0095A825</StringID>
+	<SourceText>Package Includes:<CR/>Tables:<CR/>Layouts:<CR/>Scripts: <CR/><TAB/>getQRCode; The QR Code will automatically display in the Web Viewer. To save the image, call this script and then set a container field to Get ( ScriptResult ).</SourceText>
+	<TargetText>Package Includes:<CR/>Tables:<CR/>Layouts:<CR/>Scripts: <CR/><TAB/>getQRCode; The QR Code will automatically display in the Web Viewer. To save the image, call this script and then set a container field to Get ( ScriptResult ).</TargetText>
+	<Comment>com.fmi.layoutobject.text.Package Includes:_CR/_Tables:_CR/_Layouts:_CR/_Scripts: _CR/__TAB/_getQRCode; The QR Code will automatically display in the Web Viewer. To save the image, call this script and then set a container field to Get ( ScriptResult ).</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.3E3CF52702139E850E5066F9BF20CDE0</StringID>
+	<SourceText>-force; to overwrite the existing file in the target folder<CR/>-ignore_valuelists; uses dev clone value lists<CR/>-ignore_accounts; uses dev clone accounts<CR/>-ignore_fonts; doesn&apos;t check font mapping for field contents<CR/>-rebuildindexes; rebuilds indexes from scratch, 19.1.3<CR/>-reevaluate; all &apos;stored&apos; calculations are re-evaluated, 19.1.3<CR/>-v; verbose mode, for [Full Access] accounts<CR/>-q; no report generated during migration</SourceText>
+	<TargetText>-force; to overwrite the existing file in the target folder<CR/>-ignore_valuelists; uses dev clone value lists<CR/>-ignore_accounts; uses dev clone accounts<CR/>-ignore_fonts; doesn&apos;t check font mapping for field contents<CR/>-rebuildindexes; rebuilds indexes from scratch, 19.1.3<CR/>-reevaluate; all &apos;stored&apos; calculations are re-evaluated, 19.1.3<CR/>-v; verbose mode, for [Full Access] accounts<CR/>-q; no report generated during migration</TargetText>
+	<Comment>com.fmi.layoutobject.text.-force; to overwrite the existing file in the target folder_CR/_-ignore_valuelists; uses dev clone value lists_CR/_-ignore_accounts; uses dev clone accounts_CR/_-ignore_fonts; doesn&apos;t check font mapping for field contents_CR/_-rebuildindexes; rebuilds indexes from scratch, 19.1.3_CR/_-reevaluate; all &apos;stored&apos; calculations are re-evaluated, 19.1.3_CR/_-v; verbose mode, for [Full Access] accounts_CR/_-q; no report generated during migration</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.50F7D396E4D050852BDEC6037834BF32</StringID>
+	<SourceText>Options:</SourceText>
+	<TargetText>Options:</TargetText>
+	<Comment>com.fmi.layoutobject.text.Options:</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.939E506415F0B2B0B37C666F7D142D6B</StringID>
+	<SourceText>iCore Migrate</SourceText>
+	<TargetText>iCore Migrate</TargetText>
+	<Comment>com.fmi.layoutobject.text.iCore Migrate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.95F05660AB4C68E26E9590DBAAB88B4B</StringID>
+	<SourceText>Migrate</SourceText>
+	<TargetText>Migrate</TargetText>
+	<Comment>com.fmi.layoutobject.text.Migrate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.96EF77A18A8B1C6CABA62972049F8653</StringID>
+	<SourceText>install.FMDataMigration</SourceText>
+	<TargetText>install.FMDataMigration</TargetText>
+	<Comment>com.fmi.layoutobject.text.install.FMDataMigration</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.991D77F5D4BABB45CF4A470ABF393D94</StringID>
+	<SourceText>https://iCoreManagement.com/products/Migrate</SourceText>
+	<TargetText>https://iCoreManagement.com/products/Migrate</TargetText>
+	<Comment>com.fmi.layoutobject.text.https://iCoreManagement.com/products/Migrate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.A027DC31C5DAC18A120CA2AFBDB406D2</StringID>
+	<SourceText>The Clone File is a clone of the tested development version ready for release to production.  The Clone File must be closed. An account with [Full Access] or the &quot;fmmigration&quot; extended privilege set is required.</SourceText>
+	<TargetText>The Clone File is a clone of the tested development version ready for release to production.  The Clone File must be closed. An account with [Full Access] or the &quot;fmmigration&quot; extended privilege set is required.</TargetText>
+	<Comment>com.fmi.layoutobject.text.The Clone File is a clone of the tested development version ready for release to production.  The Clone File must be closed. An account with [Full Access] or the &quot;fmmigration&quot; extended privilege set is required.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.A5C93A7A964D2B71626A5618C0D80D36</StringID>
+	<SourceText>FMDataMigration</SourceText>
+	<TargetText>FMDataMigration</TargetText>
+	<Comment>com.fmi.layoutobject.text.FMDataMigration</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.A73C0DB8E31004B2289C6DF02B083479</StringID>
+	<SourceText>1. In Layout Mode, open the Web Viewer Setup.  Set the variable qrText to the text for the QR Code.<CR/><CR/>2. Resize the QRCode group to the appropriate size for the layout.  The QR Code will automatically adjust to the size of the Web Viewer.</SourceText>
+	<TargetText>1. In Layout Mode, open the Web Viewer Setup.  Set the variable qrText to the text for the QR Code.<CR/><CR/>2. Resize the QRCode group to the appropriate size for the layout.  The QR Code will automatically adjust to the size of the Web Viewer.</TargetText>
+	<Comment>com.fmi.layoutobject.text.1. In Layout Mode, open the Web Viewer Setup.  Set the variable qrText to the text for the QR Code._CR/__CR/_2. Resize the QRCode group to the appropriate size for the layout.  The QR Code will automatically adjust to the size of the Web Viewer.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.AE151E1C15A78E7BA0AC9D96D36C4319</StringID>
+	<SourceText>This tool will migrate data from the production file to an empty clone as a new release ready for production.  This relies on the FMDataMigration Tool. This tool migrates all data tables, accounts, and value lists from the source production version to the empty clone.</SourceText>
+	<TargetText>This tool will migrate data from the production file to an empty clone as a new release ready for production.  This relies on the FMDataMigration Tool. This tool migrates all data tables, accounts, and value lists from the source production version to the empty clone.</TargetText>
+	<Comment>com.fmi.layoutobject.text.This tool will migrate data from the production file to an empty clone as a new release ready for production.  This relies on the FMDataMigration Tool. This tool migrates all data tables, accounts, and value lists from the source production version to the empty clone.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.DFDE8E642AA9966188FEFF4780761B8E</StringID>
+	<SourceText>The Source File has the current production data that is to be migrated into the Clone File.  The Source File must be closed. An account with [Full Access] or the &quot;fmmigration&quot; extended privilege set is required.</SourceText>
+	<TargetText>The Source File has the current production data that is to be migrated into the Clone File.  The Source File must be closed. An account with [Full Access] or the &quot;fmmigration&quot; extended privilege set is required.</TargetText>
+	<Comment>com.fmi.layoutobject.text.The Source File has the current production data that is to be migrated into the Clone File.  The Source File must be closed. An account with [Full Access] or the &quot;fmmigration&quot; extended privilege set is required.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.3AEC7172BB54E34D10AA5B47447CB7B4</StringID>
+	<SourceText>.migrate</SourceText>
+	<TargetText>.migrate</TargetText>
+	<Comment>com.fmi.script..migrate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.B2FBB2A1AD300547D80D047670E7A0C7</StringID>
+	<SourceText>Migrate File</SourceText>
+	<TargetText>Migrate File</TargetText>
+	<Comment>com.fmi.script.Migrate File</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.folder.939E506415F0B2B0B37C666F7D142D6B</StringID>
+	<SourceText>iCore Migrate</SourceText>
+	<TargetText>iCore Migrate</TargetText>
+	<Comment>com.fmi.script.folder.iCore Migrate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.08A85692FE38E1F36E132E2BE249A94D</StringID>
+	<SourceText>USE VERBOSE MODE TO REQUEST USER INPUT</SourceText>
+	<TargetText>USE VERBOSE MODE TO REQUEST USER INPUT</TargetText>
+	<Comment>com.fmi.scriptstep.text.USE VERBOSE MODE TO REQUEST USER INPUT</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.0BCCC3E51B56D65A2AF94CBD9EE91AFD</StringID>
+	<SourceText>### CLONE ###</SourceText>
+	<TargetText>### CLONE ###</TargetText>
+	<Comment>com.fmi.scriptstep.text.### CLONE ###</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.145195FE95FA696D167191AF2DCB3AC6</StringID>
+	<SourceText>### SOURCE ###</SourceText>
+	<TargetText>### SOURCE ###</TargetText>
+	<Comment>com.fmi.scriptstep.text.### SOURCE ###</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.27BEE029D60544336550168F622BC54C</StringID>
+	<SourceText>CHECK IF EXISTS YET</SourceText>
+	<TargetText>CHECK IF EXISTS YET</TargetText>
+	<Comment>com.fmi.scriptstep.text.CHECK IF EXISTS YET</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.4A408183F4E478E34487013875E0EB1A</StringID>
+	<SourceText>### TOOL ###</SourceText>
+	<TargetText>### TOOL ###</TargetText>
+	<Comment>com.fmi.scriptstep.text.### TOOL ###</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.5FB9159852E9826CE09308A59793C5DE</StringID>
+	<SourceText>ADDON SAVES ITS OWN CLONE NEXT TO PRODUCTION FILE</SourceText>
+	<TargetText>ADDON SAVES ITS OWN CLONE NEXT TO PRODUCTION FILE</TargetText>
+	<Comment>com.fmi.scriptstep.text.ADDON SAVES ITS OWN CLONE NEXT TO PRODUCTION FILE</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.69B8AFE8C8C8648E9D393FA3DBE197CA</StringID>
+	<SourceText>Didn&apos;t updarte selection</SourceText>
+	<TargetText>Didn&apos;t updarte selection</TargetText>
+	<Comment>com.fmi.scriptstep.text.Didn&apos;t updarte selection</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.7256D643536A5390C81549250B015A84</StringID>
+	<SourceText>ADDON SAVES ITS OWN CLONE NEXT TO Current FILE</SourceText>
+	<TargetText>ADDON SAVES ITS OWN CLONE NEXT TO Current FILE</TargetText>
+	<Comment>com.fmi.scriptstep.text.ADDON SAVES ITS OWN CLONE NEXT TO Current FILE</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.7EBF0CE6F549358F4179C4A1E0368CBA</StringID>
+	<SourceText>PACKAGE AS ADDON</SourceText>
+	<TargetText>PACKAGE AS ADDON</TargetText>
+	<Comment>com.fmi.scriptstep.text.PACKAGE AS ADDON</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.85883638CF1ACB247DF96365098CFE1D</StringID>
+	<SourceText>https://support.claris.com/s/article/New-FileMaker-data-migration-tool?language=en_US</SourceText>
+	<TargetText>https://support.claris.com/s/article/New-FileMaker-data-migration-tool?language=en_US</TargetText>
+	<Comment>com.fmi.scriptstep.text.https://support.claris.com/s/article/New-FileMaker-data-migration-tool?language=en_US</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.8D74911D8FDBC541A86CDAB5A85CD375</StringID>
+	<SourceText>### TARGET ###</SourceText>
+	<TargetText>### TARGET ###</TargetText>
+	<Comment>com.fmi.scriptstep.text.### TARGET ###</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.ACFA086AAC4EF32EC017DA2070D3EF80</StringID>
+	<SourceText>DETERMINE WINDOWS, MAC, OR LINUX</SourceText>
+	<TargetText>DETERMINE WINDOWS, MAC, OR LINUX</TargetText>
+	<Comment>com.fmi.scriptstep.text.DETERMINE WINDOWS, MAC, OR LINUX</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.B168ACBA9E04CE6859BF17D2596E85CC</StringID>
+	<SourceText>To save a Migration account and password for this file, add them here.</SourceText>
+	<TargetText>To save a Migration account and password for this file, add them here.</TargetText>
+	<Comment>com.fmi.scriptstep.text.To save a Migration account and password for this file, add them here.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.DB5FE9B0C2D076B6DCA180CC1A9AD567</StringID>
+	<SourceText>SHOW DIALOGUE</SourceText>
+	<TargetText>SHOW DIALOGUE</TargetText>
+	<Comment>com.fmi.scriptstep.text.SHOW DIALOGUE</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.E937AB70CF3B8BCB1579EC5189E67BE8</StringID>
+	<SourceText>SET TARGET TO FILNAME MIGRATED NEXT TO CURRENT FILE.</SourceText>
+	<TargetText>SET TARGET TO FILNAME MIGRATED NEXT TO CURRENT FILE.</TargetText>
+	<Comment>com.fmi.scriptstep.text.SET TARGET TO FILNAME MIGRATED NEXT TO CURRENT FILE.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.91723F7FCE9CC3220CD23C831D60F8D0</StringID>
+	<SourceText>ic.Migrate</SourceText>
+	<TargetText>ic.Migrate</TargetText>
+	<Comment>com.fmi.tableoccurrence.ic.Migrate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.ic.Migrate::32B44D4445965C97B7D6CB59F18F2114</StringID>
+	<SourceText>ic.Migrate::options</SourceText>
+	<TargetText>ic.Migrate::options</TargetText>
+	<Comment>com.fmi.tableoccurrence.field.ic.Migrate::ic.Migrate::options</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.ic.Migrate::472850B2B838DE2D63D65372AD546A4D</StringID>
+	<SourceText>target.folder</SourceText>
+	<TargetText>target.folder</TargetText>
+	<Comment>com.fmi.tableoccurrence.field.ic.Migrate::target.folder</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.ic.Migrate::5E94AF5F6F625EEF6CD601910DC0C173</StringID>
+	<SourceText>ic.Migrate::source</SourceText>
+	<TargetText>ic.Migrate::source</TargetText>
+	<Comment>com.fmi.tableoccurrence.field.ic.Migrate::ic.Migrate::source</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.ic.Migrate::744C65BC412A136121F89A1EAD0A8EFD</StringID>
+	<SourceText>ic.Migrate::clone</SourceText>
+	<TargetText>ic.Migrate::clone</TargetText>
+	<Comment>com.fmi.tableoccurrence.field.ic.Migrate::ic.Migrate::clone</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.ic.Migrate::7BE09D02C06EFAF256407F8CDB2E324B</StringID>
+	<SourceText>clone</SourceText>
+	<TargetText>clone</TargetText>
+	<Comment>com.fmi.tableoccurrence.field.ic.Migrate::clone</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.ic.Migrate::7D495466EBD5F10C66D5C1061EC9A516</StringID>
+	<SourceText>ic.Migrate::FMDataMigration</SourceText>
+	<TargetText>ic.Migrate::FMDataMigration</TargetText>
+	<Comment>com.fmi.tableoccurrence.field.ic.Migrate::ic.Migrate::FMDataMigration</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.ic.Migrate::7F797E1E64B922199418EB159903A6F5</StringID>
+	<SourceText>ic.Migrate::target.folder</SourceText>
+	<TargetText>ic.Migrate::target.folder</TargetText>
+	<Comment>com.fmi.tableoccurrence.field.ic.Migrate::ic.Migrate::target.folder</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.ic.Migrate::91F127C4B704FC5AC212BA970EB65F39</StringID>
+	<SourceText>source</SourceText>
+	<TargetText>source</TargetText>
+	<Comment>com.fmi.tableoccurrence.field.ic.Migrate::source</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.ic.Migrate::96EF77A18A8B1C6CABA62972049F8653</StringID>
+	<SourceText>install.FMDataMigration</SourceText>
+	<TargetText>install.FMDataMigration</TargetText>
+	<Comment>com.fmi.tableoccurrence.field.ic.Migrate::install.FMDataMigration</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.ic.Migrate::A5C93A7A964D2B71626A5618C0D80D36</StringID>
+	<SourceText>FMDataMigration</SourceText>
+	<TargetText>FMDataMigration</TargetText>
+	<Comment>com.fmi.tableoccurrence.field.ic.Migrate::FMDataMigration</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.ic.Migrate::FFB5115282332A329739F7F5E0AD025E</StringID>
+	<SourceText>options</SourceText>
+	<TargetText>options</TargetText>
+	<Comment>com.fmi.tableoccurrence.field.ic.Migrate::options</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.valuelist.031A081CE83D3A1F92D37E8F77581F62</StringID>
+	<SourceText>migration.options</SourceText>
+	<TargetText>migration.options</TargetText>
+	<Comment>com.fmi.valuelist.migration.options</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.valuelist.text.40822680A0F937D25302764A1C9A9329</StringID>
+	<SourceText>force<CR/>ignore_valuelists<CR/>ignore_accounts<CR/>ignore_fonts<CR/>rebuildindexes<CR/>reevaluate<CR/>v<CR/>q</SourceText>
+	<TargetText>force<CR/>ignore_valuelists<CR/>ignore_accounts<CR/>ignore_fonts<CR/>rebuildindexes<CR/>reevaluate<CR/>v<CR/>q</TargetText>
+	<Comment>com.fmi.valuelist.text.force_CR/_ignore_valuelists_CR/_ignore_accounts_CR/_ignore_fonts_CR/_rebuildindexes_CR/_reevaluate_CR/_v_CR/_q</Comment>
+</DynamicTemplateString>
