@@ -119,6 +119,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.22693B885E2AA166100EBCAF0E9AABE3</StringID>
+	<SourceText>https://github.com/iCore-Management/Migrate-FMAddOn</SourceText>
+	<TargetText>https://github.com/iCore-Management/Migrate-FMAddOn</TargetText>
+	<Comment>com.fmi.calculation.text.https://github.com/iCore-Management/Migrate-FMAddOn</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.230281C03D93694221DFB8C9B6B70B64</StringID>
 	<SourceText>Select the distribution folder.</SourceText>
 	<TargetText>Select the distribution folder.</TargetText>
@@ -242,13 +249,6 @@
 	<SourceText>https://support.claris.com/s/article/New-FileMaker-data-migration-tool</SourceText>
 	<TargetText>https://support.claris.com/s/article/New-FileMaker-data-migration-tool</TargetText>
 	<Comment>com.fmi.calculation.text.https://support.claris.com/s/article/New-FileMaker-data-migration-tool</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.8084F60D00DAC3DA200B3759A513B34D</StringID>
-	<SourceText>https://github.com/iCore-Management/Encoder-FMAddOn</SourceText>
-	<TargetText>https://github.com/iCore-Management/Encoder-FMAddOn</TargetText>
-	<Comment>com.fmi.calculation.text.https://github.com/iCore-Management/Encoder-FMAddOn</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
