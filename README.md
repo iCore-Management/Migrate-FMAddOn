@@ -5,3 +5,6 @@ This application automates the FM Data Migration Tool for a repository devops pr
 This application uses AppleScript and is not yet windows compatible.
 
 ![image](/docs/resources/Interface.png)
+
+# Installation
+1. Download the [Installer](/Install.zip).
