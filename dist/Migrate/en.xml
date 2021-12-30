@@ -91,6 +91,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.08AC7DFF737B67844AB3186081437368</StringID>
+	<SourceText>&apos; -src_pwd &apos;</SourceText>
+	<TargetText>&apos; -src_pwd &apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; -src_pwd &apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.1188934A0A02A3341F44900978954A3E</StringID>
 	<SourceText>External Size</SourceText>
 	<TargetText>External Size</TargetText>
@@ -105,13 +112,6 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.19709CBA3D0E18E5B44C56F5E9707DF3</StringID>
-	<SourceText>Select the target folder for the migrated file.</SourceText>
-	<TargetText>Select the target folder for the migrated file.</TargetText>
-	<Comment>com.fmi.calculation.text.Select the target folder for the migrated file.</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.1B759226EB6991D1214E639EA673D087</StringID>
 	<SourceText>?</SourceText>
 	<TargetText>?</TargetText>
@@ -123,13 +123,6 @@
 	<SourceText>https://github.com/iCore-Management/Migrate-FMAddOn</SourceText>
 	<TargetText>https://github.com/iCore-Management/Migrate-FMAddOn</TargetText>
 	<Comment>com.fmi.calculation.text.https://github.com/iCore-Management/Migrate-FMAddOn</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.230281C03D93694221DFB8C9B6B70B64</StringID>
-	<SourceText>Select the distribution folder.</SourceText>
-	<TargetText>Select the distribution folder.</TargetText>
-	<Comment>com.fmi.calculation.text.Select the distribution folder.</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -217,10 +210,24 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5824A8D1DFE47A13EF536E2DBE0F5B21</StringID>
+	<SourceText>&apos; -clone_pwd &apos;</SourceText>
+	<TargetText>&apos; -clone_pwd &apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; -clone_pwd &apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.5C5E1FEEB65D049B290CCFB398534C1F</StringID>
 	<SourceText>Pro</SourceText>
 	<TargetText>Pro</TargetText>
 	<Comment>com.fmi.calculation.text.Pro</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.6CA01CA4CD2AF338B124AEC55EFFF522</StringID>
+	<SourceText>&apos; -clone_account &apos;</SourceText>
+	<TargetText>&apos; -clone_account &apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; -clone_account &apos;</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -263,6 +270,13 @@
 	<SourceText>https://downloads.claris.com/DEVREL/sdk/fm_data_migration_19.4.1.36_mac.zip</SourceText>
 	<TargetText>https://downloads.claris.com/DEVREL/sdk/fm_data_migration_19.4.1.36_mac.zip</TargetText>
 	<Comment>com.fmi.calculation.text.https://downloads.claris.com/DEVREL/sdk/fm_data_migration_19.4.1.36_mac.zip</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.885BF69DC0168F3624435346D7BF4836</StringID>
+	<SourceText>/</SourceText>
+	<TargetText>/</TargetText>
+	<Comment>com.fmi.calculation.text./</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -406,13 +420,6 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.D7EC26F12231E422F49BAA30FCA5AF57</StringID>
-	<SourceText>Choose Target for Data Migration</SourceText>
-	<TargetText>Choose Target for Data Migration</TargetText>
-	<Comment>com.fmi.calculation.text.Choose Target for Data Migration</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.DB55169D5CFECBDCC91C05CC1DE72CF4</StringID>
 	<SourceText>.fmp12</SourceText>
 	<TargetText>.fmp12</TargetText>
@@ -448,17 +455,17 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.ED87546DE39D4B36D785395417C9FF9F</StringID>
+	<SourceText>&apos; -src_account &apos;</SourceText>
+	<TargetText>&apos; -src_account &apos;</TargetText>
+	<Comment>com.fmi.calculation.text.&apos; -src_account &apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.EECE2E542B0CDCE586A27B7931BA8BF0</StringID>
 	<SourceText>¶</SourceText>
 	<TargetText>¶</TargetText>
 	<Comment>com.fmi.calculation.text.¶</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.EF19CCC2BD07F3CC077964CD8BC765A2</StringID>
-	<SourceText><TAB/><TAB/>&quot;do script \&quot;cd &quot; &amp; Replace ( $_folder ; 0 ; Position ( $_folder ; &quot;/&quot; ; 0 ; 2 )-1 ; &quot;&quot; ) &amp; &quot;\&quot;&quot;;<CR/></SourceText>
-	<TargetText><TAB/><TAB/>&quot;do script \&quot;cd &quot; &amp; Replace ( $_folder ; 0 ; Position ( $_folder ; &quot;/&quot; ; 0 ; 2 )-1 ; &quot;&quot; ) &amp; &quot;\&quot;&quot;;<CR/></TargetText>
-	<Comment>com.fmi.calculation.text._TAB/__TAB/_&quot;do script \&quot;cd &quot; &amp; Replace ( $_folder ; 0 ; Position ( $_folder ; &quot;/&quot; ; 0 ; 2 )-1 ; &quot;&quot; ) &amp; &quot;\&quot;&quot;;_CR/_</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -630,17 +637,10 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.script.3AEC7172BB54E34D10AA5B47447CB7B4</StringID>
-	<SourceText>.migrate</SourceText>
-	<TargetText>.migrate</TargetText>
-	<Comment>com.fmi.script..migrate</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.script.B2FBB2A1AD300547D80D047670E7A0C7</StringID>
-	<SourceText>Migrate File</SourceText>
-	<TargetText>Migrate File</TargetText>
-	<Comment>com.fmi.script.Migrate File</Comment>
+	<StringID>com.fmi.script.5DFCC537845DE8B2E9224B44A3C1F02C</StringID>
+	<SourceText>ic.migrate</SourceText>
+	<TargetText>ic.migrate</TargetText>
+	<Comment>com.fmi.script.ic.migrate</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -648,13 +648,6 @@
 	<SourceText>iCore Migrate</SourceText>
 	<TargetText>iCore Migrate</TargetText>
 	<Comment>com.fmi.script.folder.iCore Migrate</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.scriptstep.text.08A85692FE38E1F36E132E2BE249A94D</StringID>
-	<SourceText>USE VERBOSE MODE TO REQUEST USER INPUT</SourceText>
-	<TargetText>USE VERBOSE MODE TO REQUEST USER INPUT</TargetText>
-	<Comment>com.fmi.scriptstep.text.USE VERBOSE MODE TO REQUEST USER INPUT</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -672,6 +665,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.1BBD2E2302D5734C464DF98D0DB3B59A</StringID>
+	<SourceText>### FILE ACCESS ###</SourceText>
+	<TargetText>### FILE ACCESS ###</TargetText>
+	<Comment>com.fmi.scriptstep.text.### FILE ACCESS ###</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.scriptstep.text.27BEE029D60544336550168F622BC54C</StringID>
 	<SourceText>CHECK IF EXISTS YET</SourceText>
 	<TargetText>CHECK IF EXISTS YET</TargetText>
@@ -679,38 +679,24 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.scriptstep.text.4A408183F4E478E34487013875E0EB1A</StringID>
-	<SourceText>### TOOL ###</SourceText>
-	<TargetText>### TOOL ###</TargetText>
-	<Comment>com.fmi.scriptstep.text.### TOOL ###</Comment>
+	<StringID>com.fmi.scriptstep.text.4247EF3ED3F1DAEB9F4323627BF2B42D</StringID>
+	<SourceText>The URL to download the FMDataMigration Tool</SourceText>
+	<TargetText>The URL to download the FMDataMigration Tool</TargetText>
+	<Comment>com.fmi.scriptstep.text.The URL to download the FMDataMigration Tool</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.scriptstep.text.5FB9159852E9826CE09308A59793C5DE</StringID>
-	<SourceText>ADDON SAVES ITS OWN CLONE NEXT TO PRODUCTION FILE</SourceText>
-	<TargetText>ADDON SAVES ITS OWN CLONE NEXT TO PRODUCTION FILE</TargetText>
-	<Comment>com.fmi.scriptstep.text.ADDON SAVES ITS OWN CLONE NEXT TO PRODUCTION FILE</Comment>
+	<StringID>com.fmi.scriptstep.text.69EB5DF4B9C1CBB4113BD0947AB03D3F</StringID>
+	<SourceText>The account must be local, and have [Full Access] or the fmmigration extended privilege.</SourceText>
+	<TargetText>The account must be local, and have [Full Access] or the fmmigration extended privilege.</TargetText>
+	<Comment>com.fmi.scriptstep.text.The account must be local, and have [Full Access] or the fmmigration extended privilege.</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.scriptstep.text.69B8AFE8C8C8648E9D393FA3DBE197CA</StringID>
-	<SourceText>Didn&apos;t updarte selection</SourceText>
-	<TargetText>Didn&apos;t updarte selection</TargetText>
-	<Comment>com.fmi.scriptstep.text.Didn&apos;t updarte selection</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.scriptstep.text.7256D643536A5390C81549250B015A84</StringID>
-	<SourceText>ADDON SAVES ITS OWN CLONE NEXT TO Current FILE</SourceText>
-	<TargetText>ADDON SAVES ITS OWN CLONE NEXT TO Current FILE</TargetText>
-	<Comment>com.fmi.scriptstep.text.ADDON SAVES ITS OWN CLONE NEXT TO Current FILE</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.scriptstep.text.7EBF0CE6F549358F4179C4A1E0368CBA</StringID>
-	<SourceText>PACKAGE AS ADDON</SourceText>
-	<TargetText>PACKAGE AS ADDON</TargetText>
-	<Comment>com.fmi.scriptstep.text.PACKAGE AS ADDON</Comment>
+	<StringID>com.fmi.scriptstep.text.7A6D4EE28B1F35AABEE5D499D10BF7A9</StringID>
+	<SourceText>ADDON SAVES ITS OWN CLONE NEXT TO CURRENT FILE</SourceText>
+	<TargetText>ADDON SAVES ITS OWN CLONE NEXT TO CURRENT FILE</TargetText>
+	<Comment>com.fmi.scriptstep.text.ADDON SAVES ITS OWN CLONE NEXT TO CURRENT FILE</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -728,6 +714,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.A8820E06EEF69607BC06118A5D0D3453</StringID>
+	<SourceText>### HEADER ###<CR/><TAB/>Purpose: Manage the FMData Migration Process<CR/><CR/><TAB/>Inputs: <CR/><TAB/><TAB/>Parameters: &quot;Install&quot; (optional) to install the FMDataMigration tool<CR/><TAB/><TAB/>Fields: <CR/><TAB/><TAB/><TAB/>Source reference file<CR/><TAB/><TAB/><TAB/>Clone reference file (optional) [Default: create new clone]<CR/><TAB/><TAB/><TAB/>FMDataMigration tool reference file<CR/><TAB/><TAB/><TAB/>Target reference folder (optional) [Default: next to clone]<CR/><TAB/>Outputs: CLI command<CR/><CR/><CR/><TAB/>Version: 0.9<CR/><TAB/>Notes:<CR/><CR/>### HEADER ###</SourceText>
+	<TargetText>### HEADER ###<CR/><TAB/>Purpose: Manage the FMData Migration Process<CR/><CR/><TAB/>Inputs: <CR/><TAB/><TAB/>Parameters: &quot;Install&quot; (optional) to install the FMDataMigration tool<CR/><TAB/><TAB/>Fields: <CR/><TAB/><TAB/><TAB/>Source reference file<CR/><TAB/><TAB/><TAB/>Clone reference file (optional) [Default: create new clone]<CR/><TAB/><TAB/><TAB/>FMDataMigration tool reference file<CR/><TAB/><TAB/><TAB/>Target reference folder (optional) [Default: next to clone]<CR/><TAB/>Outputs: CLI command<CR/><CR/><CR/><TAB/>Version: 0.9<CR/><TAB/>Notes:<CR/><CR/>### HEADER ###</TargetText>
+	<Comment>com.fmi.scriptstep.text.### HEADER ###_CR/__TAB/_Purpose: Manage the FMData Migration Process_CR/__CR/__TAB/_Inputs: _CR/__TAB/__TAB/_Parameters: &quot;Install&quot; (optional) to install the FMDataMigration tool_CR/__TAB/__TAB/_Fields: _CR/__TAB/__TAB/__TAB/_Source reference file_CR/__TAB/__TAB/__TAB/_Clone reference file (optional) [Default: create new clone]_CR/__TAB/__TAB/__TAB/_FMDataMigration tool reference file_CR/__TAB/__TAB/__TAB/_Target reference folder (optional) [Default: next to clone]_CR/__TAB/_Outputs: CLI command_CR/__CR/__CR/__TAB/_Version: 0.9_CR/__TAB/_Notes:_CR/__CR/_### HEADER ###</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.scriptstep.text.ACFA086AAC4EF32EC017DA2070D3EF80</StringID>
 	<SourceText>DETERMINE WINDOWS, MAC, OR LINUX</SourceText>
 	<TargetText>DETERMINE WINDOWS, MAC, OR LINUX</TargetText>
@@ -742,17 +735,31 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.scriptstep.text.DB5FE9B0C2D076B6DCA180CC1A9AD567</StringID>
-	<SourceText>SHOW DIALOGUE</SourceText>
-	<TargetText>SHOW DIALOGUE</TargetText>
-	<Comment>com.fmi.scriptstep.text.SHOW DIALOGUE</Comment>
+	<StringID>com.fmi.scriptstep.text.CC2EF6BF66052E4384F89B46B514CD44</StringID>
+	<SourceText>## PERFORM MIGRATION ###</SourceText>
+	<TargetText>## PERFORM MIGRATION ###</TargetText>
+	<Comment>com.fmi.scriptstep.text.## PERFORM MIGRATION ###</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.scriptstep.text.E937AB70CF3B8BCB1579EC5189E67BE8</StringID>
-	<SourceText>SET TARGET TO FILNAME MIGRATED NEXT TO CURRENT FILE.</SourceText>
-	<TargetText>SET TARGET TO FILNAME MIGRATED NEXT TO CURRENT FILE.</TargetText>
-	<Comment>com.fmi.scriptstep.text.SET TARGET TO FILNAME MIGRATED NEXT TO CURRENT FILE.</Comment>
+	<StringID>com.fmi.scriptstep.text.D234B78BBAC7ECDBB7D3612CA094FF24</StringID>
+	<SourceText>### FMDATAMIGRATION TOOL ###</SourceText>
+	<TargetText>### FMDATAMIGRATION TOOL ###</TargetText>
+	<Comment>com.fmi.scriptstep.text.### FMDATAMIGRATION TOOL ###</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.E7521D90201665B2CA9BD8F92489AA9B</StringID>
+	<SourceText>## DEVELOPER ###</SourceText>
+	<TargetText>## DEVELOPER ###</TargetText>
+	<Comment>com.fmi.scriptstep.text.## DEVELOPER ###</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F44AC613DDC184DE5B82E02B6D3FA82A</StringID>
+	<SourceText>SET TARGET TO SOURCE FILENAME NEXT TO CLONED FILE.</SourceText>
+	<TargetText>SET TARGET TO SOURCE FILENAME NEXT TO CLONED FILE.</TargetText>
+	<Comment>com.fmi.scriptstep.text.SET TARGET TO SOURCE FILENAME NEXT TO CLONED FILE.</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
