@@ -1,0 +1,19 @@
+﻿{
+	"Title" : "Migrate",
+
+	"Description" : "Migrate moves production data to testing or development ready for release.",
+
+	"Category" : "iCore",
+
+	"Features" :
+		[
+			"Run directly from the development file, select production source data, and Migrate creates the clone and transfers the data.",
+			"Installs FMDataMigration version 19.4.1.36"
+		],
+
+	"Optimized" :
+		[
+			"Desktop", "Mac"
+
+		]
+}

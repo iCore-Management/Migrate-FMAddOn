@@ -14,13 +14,6 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.basetable.field.ic.Migrate::0FCF66F25B7F6956F416DAD721A6D37E</StringID>
-	<SourceText>?migration.account</SourceText>
-	<TargetText>?migration.account</TargetText>
-	<Comment>com.fmi.basetable.field.ic.Migrate::?migration.account</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
 	<StringID>com.fmi.basetable.field.ic.Migrate::472850B2B838DE2D63D65372AD546A4D</StringID>
 	<SourceText>target.folder</SourceText>
 	<TargetText>target.folder</TargetText>
@@ -77,10 +70,31 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.01D603771496346D5E94BEFA30FA84FA</StringID>
+	<SourceText>WIN<CR/></SourceText>
+	<TargetText>WIN<CR/></TargetText>
+	<Comment>com.fmi.calculation.text.WIN_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.020D8AC62B74BA959ED27F3D0120D298</StringID>
 	<SourceText>&apos; </SourceText>
 	<TargetText>&apos; </TargetText>
 	<Comment>com.fmi.calculation.text.&apos;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.043A9138813DA7CF13F9D1CBEFB321EC</StringID>
+	<SourceText>https://downloads.claris.com/DEVREL/sdk/fm_data_migration_19.4.2.204_ubuntu.zip</SourceText>
+	<TargetText>https://downloads.claris.com/DEVREL/sdk/fm_data_migration_19.4.2.204_ubuntu.zip</TargetText>
+	<Comment>com.fmi.calculation.text.https://downloads.claris.com/DEVREL/sdk/fm_data_migration_19.4.2.204_ubuntu.zip</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.078360E1B1E406D33F7BC81917A90907</StringID>
+	<SourceText>https://community.claris.com/en/s/article/FileMaker-data-migration-tool</SourceText>
+	<TargetText>https://community.claris.com/en/s/article/FileMaker-data-migration-tool</TargetText>
+	<Comment>com.fmi.calculation.text.https://community.claris.com/en/s/article/FileMaker-data-migration-tool</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -161,6 +175,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.30FFDC80DE1047D95827B1BD429E65B9</StringID>
+	<SourceText>https://downloads.claris.com/DEVREL/sdk/fm_data_migration_19.4.1.36_win.zip</SourceText>
+	<TargetText>https://downloads.claris.com/DEVREL/sdk/fm_data_migration_19.4.1.36_win.zip</TargetText>
+	<Comment>com.fmi.calculation.text.https://downloads.claris.com/DEVREL/sdk/fm_data_migration_19.4.1.36_win.zip</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.32EC55D26C4851FB824E8E41E8D80E90</StringID>
 	<SourceText> Clone.fmp12</SourceText>
 	<TargetText> Clone.fmp12</TargetText>
@@ -182,10 +203,10 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.428AC1C9A4E6B2482AF115DD883AC756</StringID>
-	<SourceText>Unable to download the FMDataMigration Tool from the web.  Install it manually, and then select the installation during the migration process.</SourceText>
-	<TargetText>Unable to download the FMDataMigration Tool from the web.  Install it manually, and then select the installation during the migration process.</TargetText>
-	<Comment>com.fmi.calculation.text.Unable to download the FMDataMigration Tool from the web.  Install it manually, and then select the installation during the migration process.</Comment>
+	<StringID>com.fmi.calculation.text.45CD7B2226782DECB4521A10613DEF47</StringID>
+	<SourceText>MAC<CR/></SourceText>
+	<TargetText>MAC<CR/></TargetText>
+	<Comment>com.fmi.calculation.text.MAC_CR/_</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -221,6 +242,20 @@
 	<SourceText>Pro</SourceText>
 	<TargetText>Pro</TargetText>
 	<Comment>com.fmi.calculation.text.Pro</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.60CD7256A1AA45C26E4494079607B2DC</StringID>
+	<SourceText>The FMDataMigration Tool is required.  The data migration tool is available through the Claris FileMaker Developer Subscription (FDS).  Select its location, or install it from the web.</SourceText>
+	<TargetText>The FMDataMigration Tool is required.  The data migration tool is available through the Claris FileMaker Developer Subscription (FDS).  Select its location, or install it from the web.</TargetText>
+	<Comment>com.fmi.calculation.text.The FMDataMigration Tool is required.  The data migration tool is available through the Claris FileMaker Developer Subscription (FDS).  Select its location, or install it from the web.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.6C774BE7DAE6CD53CA194890412BC7C7</StringID>
+	<SourceText>Help</SourceText>
+	<TargetText>Help</TargetText>
+	<Comment>com.fmi.calculation.text.Help</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -277,6 +312,13 @@
 	<SourceText>/</SourceText>
 	<TargetText>/</TargetText>
 	<Comment>com.fmi.calculation.text./</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.8B572352AB1F909AC17BCDBA45CCAAFC</StringID>
+	<SourceText>Clone Current File</SourceText>
+	<TargetText>Clone Current File</TargetText>
+	<Comment>com.fmi.calculation.text.Clone Current File</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -343,6 +385,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A0F243D35882622EDDBBE37164A22C81</StringID>
+	<SourceText>OPEN</SourceText>
+	<TargetText>OPEN</TargetText>
+	<Comment>com.fmi.calculation.text.OPEN</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.A2CB42FF59AC9336B164C65219C16DE8</StringID>
 	<SourceText>Source File</SourceText>
 	<TargetText>Source File</TargetText>
@@ -399,17 +448,24 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.C76E0814E56414747DEB0059DE6FD390</StringID>
-	<SourceText>Create New Clone of this File</SourceText>
-	<TargetText>Create New Clone of this File</TargetText>
-	<Comment>com.fmi.calculation.text.Create New Clone of this File</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.C7FC1AC1F456EF08F68D500B571D7E34</StringID>
 	<SourceText>Select the file with production data to be migrated.</SourceText>
 	<TargetText>Select the file with production data to be migrated.</TargetText>
 	<Comment>com.fmi.calculation.text.Select the file with production data to be migrated.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CD1DC04D0588D4C9A74BD1528CDB18DF</StringID>
+	<SourceText><TAB/><TAB/>&quot;activate&quot;;<CR/></SourceText>
+	<TargetText><TAB/><TAB/>&quot;activate&quot;;<CR/></TargetText>
+	<Comment>com.fmi.calculation.text._TAB/__TAB/_&quot;activate&quot;;_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CFEF3C348A8A3F2134F8D4CE20FCD241</StringID>
+	<SourceText>UBUNTU</SourceText>
+	<TargetText>UBUNTU</TargetText>
+	<Comment>com.fmi.calculation.text.UBUNTU</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -427,6 +483,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DB7A0A69944ABDFCDB0077522FB5B3C9</StringID>
+	<SourceText>Unable to download the FMDataMigration Tool from the web ( requires Claris Developer Subscription ).  Install it manually, and then select the installation during the migration process.</SourceText>
+	<TargetText>Unable to download the FMDataMigration Tool from the web ( requires Claris Developer Subscription ).  Install it manually, and then select the installation during the migration process.</TargetText>
+	<Comment>com.fmi.calculation.text.Unable to download the FMDataMigration Tool from the web ( requires Claris Developer Subscription ).  Install it manually, and then select the installation during the migration process.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.DD1B9A42CD9611FBB37AB9584A5560CA</StringID>
 	<SourceText>[Full Access]</SourceText>
 	<TargetText>[Full Access]</TargetText>
@@ -441,17 +504,17 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E1278DDC7CC156912CBF94EC1EA01DBF</StringID>
+	<SourceText>UBUNTU<CR/></SourceText>
+	<TargetText>UBUNTU<CR/></TargetText>
+	<Comment>com.fmi.calculation.text.UBUNTU_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.E3D43BB3B4F454D8698A121A9CC7B83E</StringID>
 	<SourceText> -</SourceText>
 	<TargetText> -</TargetText>
 	<Comment>com.fmi.calculation.text. -</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.E4E1C5E58D9D9F4746334EA029897306</StringID>
-	<SourceText>activate</SourceText>
-	<TargetText>activate</TargetText>
-	<Comment>com.fmi.calculation.text.activate</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -487,13 +550,6 @@
 	<SourceText>External Files</SourceText>
 	<TargetText>External Files</TargetText>
 	<Comment>com.fmi.calculation.text.External Files</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.F6C1DC0A7BAF1C689E0554D72854F419</StringID>
-	<SourceText>The FMDataMigration Tool is required.  Select its location, or install it from the web.</SourceText>
-	<TargetText>The FMDataMigration Tool is required.  Select its location, or install it from the web.</TargetText>
-	<Comment>com.fmi.calculation.text.The FMDataMigration Tool is required.  Select its location, or install it from the web.</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -546,10 +602,10 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.layoutobject.FD6BAEA62B3A5399601BD9DF242F098A</StringID>
-	<SourceText>Migration.[&lt;^FMXML_AddonInstanceUUID&gt;]</SourceText>
-	<TargetText>Migration.[&lt;^FMXML_AddonInstanceUUID&gt;]</TargetText>
-	<Comment>com.fmi.layoutobject.Migration.[&lt;^FMXML_AddonInstanceUUID&gt;]</Comment>
+	<StringID>com.fmi.layoutobject.1F3A04386206C324064E1BC338DCE957</StringID>
+	<SourceText>Migrate.[&lt;^FMXML_AddonInstanceUUID&gt;]</SourceText>
+	<TargetText>Migrate.[&lt;^FMXML_AddonInstanceUUID&gt;]</TargetText>
+	<Comment>com.fmi.layoutobject.Migrate.[&lt;^FMXML_AddonInstanceUUID&gt;]</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -672,13 +728,6 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.scriptstep.text.27BEE029D60544336550168F622BC54C</StringID>
-	<SourceText>CHECK IF EXISTS YET</SourceText>
-	<TargetText>CHECK IF EXISTS YET</TargetText>
-	<Comment>com.fmi.scriptstep.text.CHECK IF EXISTS YET</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
 	<StringID>com.fmi.scriptstep.text.4247EF3ED3F1DAEB9F4323627BF2B42D</StringID>
 	<SourceText>The URL to download the FMDataMigration Tool</SourceText>
 	<TargetText>The URL to download the FMDataMigration Tool</TargetText>
@@ -686,10 +735,17 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.scriptstep.text.69EB5DF4B9C1CBB4113BD0947AB03D3F</StringID>
-	<SourceText>The account must be local, and have [Full Access] or the fmmigration extended privilege.</SourceText>
-	<TargetText>The account must be local, and have [Full Access] or the fmmigration extended privilege.</TargetText>
-	<Comment>com.fmi.scriptstep.text.The account must be local, and have [Full Access] or the fmmigration extended privilege.</Comment>
+	<StringID>com.fmi.scriptstep.text.4EB91D7665A68439970156E350D15AB6</StringID>
+	<SourceText>The account must be local, and have [Full Access] or the fmmigration extended privilege to the clone and production file.</SourceText>
+	<TargetText>The account must be local, and have [Full Access] or the fmmigration extended privilege to the clone and production file.</TargetText>
+	<Comment>com.fmi.scriptstep.text.The account must be local, and have [Full Access] or the fmmigration extended privilege to the clone and production file.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.535FC8A72EE2554B79EDC191DBF27989</StringID>
+	<SourceText>.exe for windows?</SourceText>
+	<TargetText>.exe for windows?</TargetText>
+	<Comment>com.fmi.scriptstep.text..exe for windows?</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -697,13 +753,6 @@
 	<SourceText>ADDON SAVES ITS OWN CLONE NEXT TO CURRENT FILE</SourceText>
 	<TargetText>ADDON SAVES ITS OWN CLONE NEXT TO CURRENT FILE</TargetText>
 	<Comment>com.fmi.scriptstep.text.ADDON SAVES ITS OWN CLONE NEXT TO CURRENT FILE</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.scriptstep.text.85883638CF1ACB247DF96365098CFE1D</StringID>
-	<SourceText>https://support.claris.com/s/article/New-FileMaker-data-migration-tool?language=en_US</SourceText>
-	<TargetText>https://support.claris.com/s/article/New-FileMaker-data-migration-tool?language=en_US</TargetText>
-	<Comment>com.fmi.scriptstep.text.https://support.claris.com/s/article/New-FileMaker-data-migration-tool?language=en_US</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
