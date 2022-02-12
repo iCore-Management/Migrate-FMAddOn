@@ -896,10 +896,10 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.valuelist.031A081CE83D3A1F92D37E8F77581F62</StringID>
-	<SourceText>migration.options</SourceText>
-	<TargetText>migration.options</TargetText>
-	<Comment>com.fmi.valuelist.migration.options</Comment>
+	<StringID>com.fmi.valuelist.74A44283499655BF39469F3C7CF8E945</StringID>
+	<SourceText>ic.migration.options</SourceText>
+	<TargetText>ic.migration.options</TargetText>
+	<Comment>com.fmi.valuelist.ic.migration.options</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
