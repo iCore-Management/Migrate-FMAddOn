@@ -70,24 +70,10 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.009D4C9CC8095602833D7A43B8CEF77A</StringID>
-	<SourceText>&apos; -clone_path &apos;</SourceText>
-	<TargetText>&apos; -clone_path &apos;</TargetText>
-	<Comment>com.fmi.calculation.text.&apos; -clone_path &apos;</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.01D603771496346D5E94BEFA30FA84FA</StringID>
 	<SourceText>WIN<CR/></SourceText>
 	<TargetText>WIN<CR/></TargetText>
 	<Comment>com.fmi.calculation.text.WIN_CR/_</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.020D8AC62B74BA959ED27F3D0120D298</StringID>
-	<SourceText>&apos; </SourceText>
-	<TargetText>&apos; </TargetText>
-	<Comment>com.fmi.calculation.text.&apos;</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -109,13 +95,6 @@
 	<SourceText>Source File Set to:¶</SourceText>
 	<TargetText>Source File Set to:¶</TargetText>
 	<Comment>com.fmi.calculation.text.Source File Set to:¶</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.08AC7DFF737B67844AB3186081437368</StringID>
-	<SourceText>&apos; -src_pwd &apos;</SourceText>
-	<TargetText>&apos; -src_pwd &apos;</TargetText>
-	<Comment>com.fmi.calculation.text.&apos; -src_pwd &apos;</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -175,20 +154,6 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.2ACD1112FA6CC41D717FB619DB774AF6</StringID>
-	<SourceText> | clip</SourceText>
-	<TargetText> | clip</TargetText>
-	<Comment>com.fmi.calculation.text. | clip</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.2B6D4BFBDC7823138AFEDBE73E2726CB</StringID>
-	<SourceText>&apos; -target_path &apos;</SourceText>
-	<TargetText>&apos; -target_path &apos;</TargetText>
-	<Comment>com.fmi.calculation.text.&apos; -target_path &apos;</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.2D6017955E4154712EC4E6157154C848</StringID>
 	<SourceText>Select the distrubtion folder</SourceText>
 	<TargetText>Select the distrubtion folder</TargetText>
@@ -231,6 +196,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.3FE685D42610E4ABC8081D9B24423E50</StringID>
+	<SourceText> MAC AND WINDOWS ONLY </SourceText>
+	<TargetText> MAC AND WINDOWS ONLY </TargetText>
+	<Comment>com.fmi.calculation.text. MAC AND WINDOWS ONLY</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.45CD7B2226782DECB4521A10613DEF47</StringID>
 	<SourceText>MAC<CR/></SourceText>
 	<TargetText>MAC<CR/></TargetText>
@@ -242,13 +214,6 @@
 	<SourceText>https://icoremanagement.com/products</SourceText>
 	<TargetText>https://icoremanagement.com/products</TargetText>
 	<Comment>com.fmi.calculation.text.https://icoremanagement.com/products</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.4EF92A965A889C8D61412416E06FED1B</StringID>
-	<SourceText>do shell script </SourceText>
-	<TargetText>do shell script </TargetText>
-	<Comment>com.fmi.calculation.text.do shell script</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -294,13 +259,6 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.5824A8D1DFE47A13EF536E2DBE0F5B21</StringID>
-	<SourceText>&apos; -clone_pwd &apos;</SourceText>
-	<TargetText>&apos; -clone_pwd &apos;</TargetText>
-	<Comment>com.fmi.calculation.text.&apos; -clone_pwd &apos;</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.5C5E1FEEB65D049B290CCFB398534C1F</StringID>
 	<SourceText>Pro</SourceText>
 	<TargetText>Pro</TargetText>
@@ -319,13 +277,6 @@
 	<SourceText>Help</SourceText>
 	<TargetText>Help</TargetText>
 	<Comment>com.fmi.calculation.text.Help</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.6CA01CA4CD2AF338B124AEC55EFFF522</StringID>
-	<SourceText>&apos; -clone_account &apos;</SourceText>
-	<TargetText>&apos; -clone_account &apos;</TargetText>
-	<Comment>com.fmi.calculation.text.&apos; -clone_account &apos;</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -357,6 +308,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.840B8389FD4E654FC7DC8C363E00108D</StringID>
+	<SourceText> |clip</SourceText>
+	<TargetText> |clip</TargetText>
+	<Comment>com.fmi.calculation.text. |clip</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.85E7FAC9CF6B30F7FA671059EA608CF5</StringID>
 	<SourceText>All Files</SourceText>
 	<TargetText>All Files</TargetText>
@@ -385,6 +343,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.8C3455CCD2F40E4CA948F648EC59EC9C</StringID>
+	<SourceText>Running Migration...</SourceText>
+	<TargetText>Running Migration...</TargetText>
+	<Comment>com.fmi.calculation.text.Running Migration...</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.8E792621C75980180D67F8EF8D2C0BAF</StringID>
 	<SourceText>FMDataMigration.zip</SourceText>
 	<TargetText>FMDataMigration.zip</TargetText>
@@ -396,13 +361,6 @@
 	<SourceText> </SourceText>
 	<TargetText> </TargetText>
 	<Comment>com.fmi.calculation.text.</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.93173686B924EB4E1A7D63A9C3414CBC</StringID>
-	<SourceText> MAC ONLY </SourceText>
-	<TargetText> MAC ONLY </TargetText>
-	<Comment>com.fmi.calculation.text. MAC ONLY</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -518,6 +476,20 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.BBE51C7E519EBC85370402D6DB7D4170</StringID>
+	<SourceText>Results are not available yet. Select \&quot;Done\&quot; after the migration file is complete, or \&quot;Cancel\&quot; to continue without results.</SourceText>
+	<TargetText>Results are not available yet. Select \&quot;Done\&quot; after the migration file is complete, or \&quot;Cancel\&quot; to continue without results.</TargetText>
+	<Comment>com.fmi.calculation.text.Results are not available yet. Select \&quot;Done\&quot; after the migration file is complete, or \&quot;Cancel\&quot; to continue without results.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.BCACC30E7157202FFD9486F0203CE5B4</StringID>
+	<SourceText>cmd.exe /c </SourceText>
+	<TargetText>cmd.exe /c </TargetText>
+	<Comment>com.fmi.calculation.text.cmd.exe /c</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.BD207BEE995E01B61F7CE2B7F22394B1</StringID>
 	<SourceText> LOCAL ONLY </SourceText>
 	<TargetText> LOCAL ONLY </TargetText>
@@ -574,6 +546,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DB68B45CD61922D84AF68A37D5D1407D</StringID>
+	<SourceText>View Results</SourceText>
+	<TargetText>View Results</TargetText>
+	<Comment>com.fmi.calculation.text.View Results</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.DB7A0A69944ABDFCDB0077522FB5B3C9</StringID>
 	<SourceText>Unable to download the FMDataMigration Tool from the web ( requires Claris Developer Subscription ).  Install it manually, and then select the installation during the migration process.</SourceText>
 	<TargetText>Unable to download the FMDataMigration Tool from the web ( requires Claris Developer Subscription ).  Install it manually, and then select the installation during the migration process.</TargetText>
@@ -595,6 +574,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DE8DD1DEE57508E8A1FEFB58338BB217</StringID>
+	<SourceText>Performing Migration</SourceText>
+	<TargetText>Performing Migration</TargetText>
+	<Comment>com.fmi.calculation.text.Performing Migration</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.E1278DDC7CC156912CBF94EC1EA01DBF</StringID>
 	<SourceText>UBUNTU<CR/></SourceText>
 	<TargetText>UBUNTU<CR/></TargetText>
@@ -613,13 +599,6 @@
 	<SourceText> -</SourceText>
 	<TargetText> -</TargetText>
 	<Comment>com.fmi.calculation.text. -</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.ED87546DE39D4B36D785395417C9FF9F</StringID>
-	<SourceText>&apos; -src_account &apos;</SourceText>
-	<TargetText>&apos; -src_account &apos;</TargetText>
-	<Comment>com.fmi.calculation.text.&apos; -src_account &apos;</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -676,13 +655,6 @@
 	<SourceText>Option Details</SourceText>
 	<TargetText>Option Details</TargetText>
 	<Comment>com.fmi.calculation.text.Option Details</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.calculation.text.FD5A4C7E961BDBDA16BFC5817738051B</StringID>
-	<SourceText> -src_path &apos;</SourceText>
-	<TargetText> -src_path &apos;</TargetText>
-	<Comment>com.fmi.calculation.text. -src_path &apos;</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -956,6 +928,13 @@
 	<SourceText>ic.Migrate::clone</SourceText>
 	<TargetText>ic.Migrate::clone</TargetText>
 	<Comment>com.fmi.tableoccurrence.field.ic.Migrate::ic.Migrate::clone</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.ic.Migrate::79D523F6264C34755B46BAC0A4D336E8</StringID>
+	<SourceText>ic.Migrate::result</SourceText>
+	<TargetText>ic.Migrate::result</TargetText>
+	<Comment>com.fmi.tableoccurrence.field.ic.Migrate::ic.Migrate::result</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
