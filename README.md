@@ -2,13 +2,15 @@
 This application automates the FM Data Migration Tool for a repository devops process.
 
 # Getting Started
-This application uses AppleScript and is only compatable with FileMaker Pro for the Mac.
+This application is now (v1.1) compatable with FileMaker Pro for the Mac and Windows.
 
 ![image](/docs/resources/Interface.png)
 
 # Installation
 1. Download the [Installer](/Install.zip).
-2. Add /Migrate to the FileMaker AddOn folder: /Library/Application Support/FileMaker/Extensions/AddonModules
+2. Add /Migrate to the FileMaker AddOn folder:
+    Mac: /Library/Application Support/FileMaker/Extensions/AddonModules
+    Windows: \AppData\Local\FileMaker\Extensions\AddonModules
 
 # Demo
 1. Download the [Demo](/test/Demo.zip).
